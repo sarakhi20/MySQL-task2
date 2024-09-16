@@ -1,12 +1,7 @@
-# Database Model for Guvi Zen Class with dbdiagram.io
+# Database Model for Guvi Zen Class
 
 This guide provides step-by-step instructions and guidelines for creating a database model using dbdiagram.io, a popular online tool for designing database schemas.
 
-## Getting Started
-
-1. **Access dbdiagram.io:** Open your web browser and visit [dbdiagram.io](https://dbdiagram.io/).
-
-2. **Sign In or Create an Account:** If you already have an account, sign in. Otherwise, create a new account to save your work.
 
 ## Designing Your Database Model
 
